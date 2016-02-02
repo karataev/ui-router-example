@@ -1,0 +1,20 @@
+{
+  "name": "ui-router-states",
+  "version": "0.0.0",
+  "authors": [
+    "karataev <eugene.karataev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.9",
+    "angular-ui-router": "ui-router#~0.2.17"
+  }
+}
